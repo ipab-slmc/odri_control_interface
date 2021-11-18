@@ -28,4 +28,7 @@
     <depend>Eigen3</depend>
     <depend>eigenpy</depend>
 
+    <export>
+      <build_type>cmake</build_type>
+    </export>
 </package>
